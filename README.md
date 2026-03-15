@@ -39,8 +39,8 @@
 
 <p align="center">
   
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
+![Stats](https://raw.githubusercontent.com/BMLP07/BMLP07/cadUpdates/profile/stats.svg)
+![Top Languages](https://raw.githubusercontent.com/BMLP07/BMLP07/cardUpdates/profile/top-langs.svg)
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BMLP07&radius=00&theme=tokyo-night&area=true&order=5&hide_border=false&hide_title=false&custom_title=Contribution%20graph&v=1"/>
   
 </p>
