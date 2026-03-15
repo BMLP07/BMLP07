@@ -45,7 +45,7 @@ jobs:
           
           if [ -n "$(git status --porcelain)" ]; then
             git commit -m "docs: update profile stats [skip ci]"
-            git push origin assets --force
+            git push origin cardUpdates --force
           else
             echo "No changes detected, skipping push."
           fi
